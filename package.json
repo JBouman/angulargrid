@@ -1,0 +1,14 @@
+{
+  "name": "angulargrid",
+  "description": "Pinterest like responsive masonry grid system for angular.",
+  "version": "0.5.3",
+  "dependencies": {
+    "angular": "^1.3.0"
+  },
+  "repository": [
+    {
+      "type": "git",
+      "url": "git+https://github.com/JBouman/angulargrid.git"
+    }
+  ]
+}
